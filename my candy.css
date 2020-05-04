@@ -1,0 +1,23 @@
+body{
+	background: pink;
+	font-family: 'Nunito', sans-serif;
+}
+
+#mainnavbar .navbar-brand,.nav-item{
+	color: red;
+	font-size: 1.5rem;
+	font-weight: 100;
+}
+
+#mainnavbar .nav-item{
+	color: red;
+}
+.nav-item:hover {    /*to enlighten the text i.e hover*/
+	color: red;
+}
+#header span {
+	color: red;
+}
+p {
+	color:#8a3f58;
+}
